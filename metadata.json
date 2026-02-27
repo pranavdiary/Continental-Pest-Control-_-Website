@@ -1,0 +1,7 @@
+{
+  "name": "Continental Pest Control",
+  "description": "Local SEO optimized lead generation website for Continental Pest Control in Nagpur, Maharashtra.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
